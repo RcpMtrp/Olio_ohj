@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_1_module/1_1_module.iml" filepath="$PROJECT_DIR$/1_1_module/1_1_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_2_module/1_2_module.iml" filepath="$PROJECT_DIR$/1_2_module/1_2_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_3_module/1_3_module.iml" filepath="$PROJECT_DIR$/1_3_module/1_3_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_4_module/1_4_module.iml" filepath="$PROJECT_DIR$/1_4_module/1_4_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Olio_ohj.iml" filepath="$PROJECT_DIR$/Olio_ohj.iml" />
+    </modules>
+  </component>
+</project>
