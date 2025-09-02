@@ -1,0 +1,2 @@
+## Task1.
+Grocery store related services. It can prevent fuel and food waste when you simulate instead of using real world practices. The simulation costs, but with simulation there is no need of using different routes and trucks in real practice, this not only prevents fuel waste, but also vendors and drivers times. 
